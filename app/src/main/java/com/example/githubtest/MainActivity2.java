@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity2 extends AppCompatActivity {
     //dd
+    //хелло ворлд рпивет из активити 2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
